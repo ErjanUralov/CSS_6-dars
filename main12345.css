@@ -1,0 +1,257 @@
+.wrap{
+    width: 1500px;
+    margin: 100px auto;
+}
+h1{
+    text-shadow: 100px 70px 200px #cccccc;
+    text-align: center;
+}
+
+.row{
+    display: block;
+    width: 100%;
+}
+.col{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col:hover{
+    box-shadow: 0 0 20px;
+    transform: translate(40px);
+}
+.row .col:first-child .sana{
+    background-color: darkseagreen;
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    background-color: skyblue;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+
+.row2{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col2{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col2:hover{
+    box-shadow: 0 0 20px;
+    transform: rotate(30deg);
+}
+
+.row3{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col3{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col3:hover{
+    box-shadow: 0 0 20px;
+    transform: scale(1.5);
+}
+
+.row4{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col4{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col4:hover{
+    box-shadow: 0 0 20px;
+    transform: skew(-45deg);
+}
+
+.row5{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col5{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col5:hover{
+    box-shadow: 0 0 20px;
+    transform: rotate(-20deg);
+}
+
+.row6{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col6{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col6:hover{
+    box-shadow: 0 0 20px;
+    transform: scaleX(0.8);
+}
+
+.row7{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col7{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col7:hover{
+    box-shadow: 0 0 20px;
+    transform: skew(10deg);
+}
+
+.row8{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col8{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col8:hover{
+    box-shadow: 0 0 20px;
+    transform: translate(0,40px);
+}
+
+.row9{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col9{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col9:hover{
+    box-shadow: 0 0 20px;
+    transform: translate(10px,-10px);
+}
+
+.row10{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.col10{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px darkseagreen;
+    -webkit-box-shadow: 0 0 10px darkseagreen;
+    -o-box-shadow: 0 0 10px darkseagreen;
+    -moz-box-shadow: 0 0 10px darkseagreen ;
+    -ms-box-shadow: 0 0 10px  darkseagreen ;
+    margin: 0 20px;
+}
+.col10:hover{
+    box-shadow: 0 0 20px;
+    transform: skew(25deg);
+}

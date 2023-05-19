@@ -1,0 +1,22 @@
+.wrap{
+    width: 4000px;
+    height: 2000px;
+    background-color: black;
+}
+.menu-main{
+    width: 2000px;
+    height: 1000px;
+    background-color: black;
+    border: 12px solid;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    border-top-color: greenyellow;
+    border-bottom-color: lightcyan;
+    border-left-color: yellow;
+    border-right-color: indianred;
+   /*box-shadow: rgb(241, 9, 55) 50px 222px 50px 110px;*/
+    box-shadow: chartreuse 50px 120px 200px 100px;
+   -webkit-box-shadow: rgb(209, 231, 115) 60px 55px 100px 100px;
+}
+
